@@ -1,0 +1,51 @@
+[{
+    "name": "Garam Masala",
+    "price": 1,
+    "stock": 9000,
+    "count": 0
+}, {
+    "name": "Black Salt",
+    "price": 2,
+    "stock": 9000,
+    "count": 0
+}, {
+    "name": "Onions",
+    "price": 100,
+    "stock": 9000,
+    "count": 0
+}, {
+    "name": "Curry",
+    "price": 4,
+    "stock": 9000,
+    "count": 0
+}, {
+    "name": "White Rice",
+    "price": 1,
+    "stock": 9000,
+    "count": 0
+}, {
+    "name": "Goat",
+    "price": 10,
+    "stock": 9000,
+    "count": 0
+}, {
+    "name": "Sheep Bheja",
+    "price": 10,
+    "stock": 9000,
+    "count": 0
+}, {
+    "name": "Chicken",
+    "price": 10,
+    "stock": 9000,
+    "count": 0
+}, {
+    "name": "Holy Basil",
+    "price": 100,
+    "stock": 9000,
+    "count": 0
+}, {
+    "name": "Red Hot Chili Peppers",
+    "price": 3,
+    "stock": 9000,
+    "count": 0
+}]

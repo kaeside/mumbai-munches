@@ -27,5 +27,11 @@ var orderSchema = new Schema({
     status: String
 });
 
-exports.ingredientSchema = ingredientSchema;
-exports.orderSchema = orderSchema;
+orderSchema.methods.price = function() {
+    return this.ingredients.reduce(function(total, ingredient) {
+        return total + ingredient.price;
+    }, 0);
+};
+
+exports.Ingredient = mongoose.model('Ingredient', ingredientSchema);
+exports.Order = mongoose.model('Order', orderSchema);
