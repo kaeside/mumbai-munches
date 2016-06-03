@@ -1,0 +1,22 @@
+{
+  "name": "mumbai-munches",
+  "version": "1.0.0",
+  "description": "Indian restaurant that Joe likes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaeside/mumbai-munches.git"
+  },
+  "author": "Kaeside, Kyle, Simon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaeside/mumbai-munches/issues"
+  },
+  "homepage": "https://github.com/kaeside/mumbai-munches#readme",
+  "dependencies": {
+    "mongoose": "^4.4.19"
+  }
+}
